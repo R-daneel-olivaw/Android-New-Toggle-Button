@@ -1,0 +1,5 @@
+This library project will provide you with a styleable multi-state toggle button.
+As opposed to the bi-state toggle button that we get in android.
+
+The library provides listeners for observers & also has provisions for the use of custom styled vies to be used as toggle buttons.
+We can provide the library with pre styled View objects to be used as toggle buttons.
